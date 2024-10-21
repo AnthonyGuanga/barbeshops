@@ -1,0 +1,19 @@
+{
+  "name": "barbeshops",
+  "version": "1.0.0",
+  "description": "Proyecto de disenio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AnthonyGuanga/barbeshops.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sass": "^1.80.3"
+  }
+}
